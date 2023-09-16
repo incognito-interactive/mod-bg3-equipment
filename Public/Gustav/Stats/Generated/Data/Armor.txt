@@ -1,3 +1,20 @@
+new entry "_ARM_a"
+type "Armor
+
+new entry "ARM_Gloves_Leather_Drow"
+type "Armor"
+using "ARM_Gloves_Leather"
+data "RootTemplate" "f740cc6f-c7dd-4c31-8dbd-04138f59801e"
+data "ItemGroup" ""
+data "Unique" "1"
+
+new entry "ARM_Boots_Leather_Drow"
+type "Armor"
+using "ARM_Boots_Leather"
+data "RootTemplate" "cda7838e-f619-4eea-913c-817ae3f2df09"
+data "ItemGroup" ""
+data "Unique" "1"
+
 new entry "_CRA_a"
 type "Armor"
 
