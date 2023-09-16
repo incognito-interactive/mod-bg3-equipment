@@ -1,6 +1,13 @@
 new entry "_ARM_a"
 type "Armor
 
+new entry "ARM_Camp_Shoes_Sandals_A_1_Black"
+type "Armor"
+using "ARM_Camp_Shoes"
+data "RootTemplate" "03855492-12d7-42bf-866f-8aeb8eae176f"
+data "ItemGroup" ""
+data "Unique" "1"
+
 new entry "ARM_Gloves_Leather_Drow"
 type "Armor"
 using "ARM_Gloves_Leather"

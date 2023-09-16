@@ -299,7 +299,7 @@ add equipment entry "OBJ_Bag_AlchemyPouch"
 add equipmentgroup
 add equipment entry "ARM_Vanity_Body_Drow"
 add equipmentgroup
-add equipment entry "ARM_Camp_Shoes_Minthara"
+add equipment entry "ARM_Camp_Shoes_Sandals_A_1_Black"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 
